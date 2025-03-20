@@ -1,4 +1,4 @@
-module github.com/huynguyengl99/my_go_mod
+module github.com/huynguyengl99/my_go_mod/v2
 
 go 1.24.0
 
